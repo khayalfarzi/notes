@@ -8,6 +8,7 @@ public class ProjectNotesApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProjectNotesApplication.class, args);
+        System.out.println("created");
     }
 
 }
